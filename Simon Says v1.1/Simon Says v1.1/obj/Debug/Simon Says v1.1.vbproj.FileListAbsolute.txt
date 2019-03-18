@@ -1,0 +1,13 @@
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon Says v1.1.vbproj.GenerateResource.cache
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon Says v1.1.vbproj.CoreCompileInputs.cache
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon Says v1.1.vbprojAssemblyReference.cache
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\bin\Debug\Simon.exe.config
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\bin\Debug\Simon.exe
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\bin\Debug\Simon.pdb
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\bin\Debug\Simon.xml
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.Audio.resources
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.frmSimon.resources
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.Resources.resources
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.exe
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.xml
+C:\Users\Ben Hutchings\source\repos\Simon Says v1.1\Simon Says v1.1\obj\Debug\Simon.pdb
